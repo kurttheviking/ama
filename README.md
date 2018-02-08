@@ -5,7 +5,7 @@ Get in touch
 
 ## PGP
 
-Also available on the [MIT Public Key Server](http://pgp.mit.edu) and the [Ubuntu Key Server](http://keyserver.ubuntu.com).
+Also available on the [MIT Public Key Server](https://pgp.mit.edu/pks/lookup?op=get&search=0xEB417ADC39959653) and the [Ubuntu Key Server](https://keyserver.ubuntu.com/pks/lookup?op=get&fingerprint=on&search=0xEB417ADC39959653).
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
